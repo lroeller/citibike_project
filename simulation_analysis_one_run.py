@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib import rcParams
 import numpy as np
 
-num_steps = 100
+num_steps = 50
 num_stat = 664 # max 664
 num_trucks = 3
 lambda_bike = 0.0187 # see Excel sheet for numbers
